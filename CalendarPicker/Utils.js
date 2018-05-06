@@ -11,13 +11,13 @@ export const Utils = {
   START_DATE: 'START_DATE',
   END_DATE: 'END_DATE',
   WEEKDAYS: [
-    'شنبه',
-    'یکشنبه',
-    'دوشنبه',
-    'سه شنبه',
-    'چهارشنبه',
-    'پنج شنبه',
-    'جمعه'
+    'ش',
+    'ی',
+    'د',
+    'س',
+    'چ',
+    'پ',
+    'ج'
   ],
   WEEKDAYS_MON: [
     'دوشنبه',
